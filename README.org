@@ -1,0 +1,9 @@
+#+TITLE: bindat.el
+
+*This is just a copy of the latest version of bindat.el that is built into
+ Emacs.*
+
+ It requires at least Emacs 27. It is here because there are features in Emacs
+ 28 bindat.el not available in 27.
+
+Commit hash from original repo: 6535fd1fa9ac21238a168916249ac59677a6118e
