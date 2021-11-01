@@ -1,9 +1,12 @@
-;;; bindat.el --- binary data structure packing and unpacking.  -*- lexical-binding: t; -*-
+;;; bindat.el --- Binary data structure packing and unpacking  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2002-2021 Free Software Foundation, Inc.
 
 ;; Author: Kim F. Storm <storm@cua.dk>
+;; Version: 29
 ;; Assignment name: struct.el
+;; Homepage: https://gnu.org/software/emacs
+;; Package-Requires: ((emacs "27.1"))
 ;; Keywords: comm data processes
 
 ;; This file is part of GNU Emacs.
